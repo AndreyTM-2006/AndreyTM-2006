@@ -13,6 +13,6 @@ Estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar 
 ## Contato
 
 - E-mail: andreyvilela123@outlook.com
-- LinkedIn: ![Andrey Vilela De Araujo](https://linkedin.com/in/AndreyVilelaAraujo)
+- LinkedIn: [Andrey Vilela De Araujo](https://linkedin.com/in/AndreyVilelaAraujo)
 
 Ficarei feliz em me conectar e discutir oportunidades de colaboração ou responder a qualquer dúvida que você possa ter. Vamos criar algo incrível juntos!
