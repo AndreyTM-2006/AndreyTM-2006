@@ -1,5 +1,3 @@
-# Sobre Mim
-
 Olá! Sou um desenvolvedor backend apaixonado pelo mundo da programação. Desde 2018, dedico-me ao desenvolvimento backend com foco em Node.js, JavaScript e TypeScript. Tenho uma sólida experiência em trabalhar com bancos de dados, como MySQL e MongoDB, e sou especializado na criação de APIs RESTful bem estruturadas.
 
 ## Habilidades e Experiência
@@ -15,6 +13,6 @@ Estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar 
 ## Contato
 
 - E-mail: andreyvilela123@outlook.com
-- LinkedIn: [em breve]
+- LinkedIn: [Andrey Vilela De Araujo](https://www.linkedin.com/in/andrey-vilela-de-araujo-61673b282/)
 
 Ficarei feliz em me conectar e discutir oportunidades de colaboração ou responder a qualquer dúvida que você possa ter. Vamos criar algo incrível juntos!
