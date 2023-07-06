@@ -14,7 +14,7 @@ Estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar 
 
 ## Contato
 
-- E-mail: [andreyvilela123@outlook.com]
+- E-mail: andreyvilela123@outlook.com
 - LinkedIn: [em breve]
 
 Ficarei feliz em me conectar e discutir oportunidades de colaboração ou responder a qualquer dúvida que você possa ter. Vamos criar algo incrível juntos!
